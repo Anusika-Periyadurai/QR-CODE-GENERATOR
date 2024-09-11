@@ -33,17 +33,15 @@ To get a local copy of the project up and running, follow these steps:
 
 1. **Clone the repository**:
 
-    ```bash
-    git clone https://github.com/your-username/qr-code-generator.git
-    ```
+    git clone https://github.com/Anusika-Periyadurai/QR-CODE-GENERATOR.git
+    
 
 2. **Navigate to the project folder**:
 
-    ```bash
     cd qr-code-generator
-    ```
 
 3. **Open the project**:
+
    - If using **Visual Studio**: Click the run option to view the project.
    - If using a **text editor**: Open the `index.html` file in your file manager to view it in a web browser.
 
@@ -64,8 +62,6 @@ To get a local copy of the project up and running, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the (LICENSE) file for details.
 
 ---
-
-Feel free to replace placeholders like `[Live Demo](#)` with actual links and ensure the `LICENSE` file contains the complete MIT License text with your information.
