@@ -9,10 +9,6 @@ A simple QR Code Generator built with HTML, CSS, and JavaScript. This project us
 - **QR Code Generation**: Uses a QR Code Generator API to create QR codes.
 - **Scannable QR Codes**: Generated QR codes can be scanned using any QR code scanner.
 
-## Demo
-
-[Live Demo](Live Demo) 
-
 ## Technologies Used
 
 - **HTML**: For the structure of the webpage.
