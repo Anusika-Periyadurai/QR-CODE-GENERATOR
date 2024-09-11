@@ -1,0 +1,71 @@
+
+# QR CODE GENERATOR
+
+A simple QR Code Generator built with HTML, CSS, and JavaScript. This project uses a QR Code Generator API to convert input text or URLs into scannable QR codes.
+
+## Features
+
+- **Input Field**: Enter text or URLs to generate a QR code.
+- **QR Code Generation**: Uses a QR Code Generator API to create QR codes.
+- **Scannable QR Codes**: Generated QR codes can be scanned using any QR code scanner.
+
+## Demo
+
+[Live Demo](Live Demo) 
+
+## Technologies Used
+
+- **HTML**: For the structure of the webpage.
+- **CSS**: For styling and layout.
+- **JavaScript**: For handling QR code generation and user interactions.
+- **QR Code Generator API**: For creating QR codes.
+
+## Getting Started
+
+To get a local copy of the project up and running, follow these steps:
+
+### Prerequisites
+
+- A modern web browser (Chrome, Firefox, Edge, etc.)
+- [Visual Studio IDE](https://visualstudio.microsoft.com/) or any text editor.
+
+### Installation
+
+1. **Clone the repository**:
+
+    ```bash
+    git clone https://github.com/your-username/qr-code-generator.git
+    ```
+
+2. **Navigate to the project folder**:
+
+    ```bash
+    cd qr-code-generator
+    ```
+
+3. **Open the project**:
+   - If using **Visual Studio**: Click the run option to view the project.
+   - If using a **text editor**: Open the `index.html` file in your file manager to view it in a web browser.
+
+## Usage
+
+1. **Enter Text or URL**: Type the text or URL into the input field.
+2. **Generate QR Code**: Click the submit button to generate a QR code.
+3. **Scan QR Code**: Use a QR code scanner to test the generated QR code.
+
+## File Structure
+
+```bash
+├── index.html      # Main HTML file
+├── style.css       # CSS for styling the webpage
+├── script.js       # JavaScript for QR code generation and interaction
+└── README.md       # Project README file
+```
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to replace placeholders like `[Live Demo](#)` with actual links and ensure the `LICENSE` file contains the complete MIT License text with your information.
